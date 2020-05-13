@@ -6,6 +6,8 @@ Construction
 The system contains an authorization service, Zuul gateway, Eureka discovery server and. The user only interacts directly with either the authorization service which then connects directly to the job running. The data pull is then visible in a highly customizable database.
 
 
-Links
+Links:
+
 Data Server: https://github.com/milomacphail/jethro-batch-reader
+
 Auth/Gateway: https://github.com/milomacphail/jethro-discovery-server
