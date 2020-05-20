@@ -8,6 +8,6 @@ The system contains an authorization service, Zuul gateway, Eureka discovery ser
 
 Links:
 
-Data Server: https://github.com/milomacphail/jethro-batch-reader
+Data Server: https://github.com/milomacphail/big-data-file-reader
 
 Auth/Gateway: https://github.com/milomacphail/jethro-discovery-server
