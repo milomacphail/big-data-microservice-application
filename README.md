@@ -10,4 +10,4 @@ Links:
 
 Data Server: https://github.com/milomacphail/big-data-file-reader
 
-Auth/Gateway: https://github.com/milomacphail/jethro-discovery-server
+Auth/Gateway: https://github.com/milomacphail/big-data-discovery-server
